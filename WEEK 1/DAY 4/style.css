@@ -1,0 +1,15 @@
+body  {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+  }
+  @media (min-width: 568px){
+    #name{
+        color: blue;
+    }
+  }
+  .temp{
+    height: 200px;
+    background-color:white;
+    margin: 50px;
+  }
