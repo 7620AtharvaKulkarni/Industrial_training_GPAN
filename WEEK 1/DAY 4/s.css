@@ -1,0 +1,19 @@
+.data{
+    text-align: center;
+    margin-top: 200px;
+
+
+}
+button{
+    margin: 05px;
+
+}
+input{
+    margin: 10px;
+
+}
+body{
+    background-image:url("th.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 

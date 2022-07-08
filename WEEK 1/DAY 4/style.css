@@ -13,3 +13,9 @@ body  {
     background-color:white;
     margin: 50px;
   }
+  body{
+    background-image:url("new.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} 
